@@ -1,4 +1,7 @@
-![CoDoI](https://media.giphy.com/media/hV1MqHIxDwnPKrNZuU/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/hV1MqHIxDwnPKrNZuU/giphy.gif?raw=true" alt="Sublime's custom image"/>
+  </p>
+
 
 Hi I am Krisztián, a student of _Codaisseur_ and soon to be _Junior Full Stack Web Developer_. My project that I take most pride in is Co_Do_It.
 
