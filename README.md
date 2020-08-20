@@ -1,4 +1,4 @@
-![CoDoI](https://media.giphy.com/media/H6nVZGLoJPMHySobLm/giphy.gif)
+![CoDoI](https://media.giphy.com/media/hV1MqHIxDwnPKrNZuU/giphy.gif)
 
 Hi I am Krisztián, a student of _Codaisseur_ and soon to be _Junior Full Stack Web Developer_. My project that I take most pride in is Co_Do_It.
 
